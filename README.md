@@ -1,7 +1,5 @@
-## Hi there 👋
+## Hi there 👋 **I'm Shalini Vaggu** 
 
-
-**I'm Shalini Vaggu** 
 a student at college JNTUH College Of Engineering , Sulthanpur.
 
 - 🔭 I’m currently working on Full Stack Development, MERN Development
